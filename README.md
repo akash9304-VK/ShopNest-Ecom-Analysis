@@ -6,8 +6,8 @@
 This project addresses the challenge of managing 9 disparate datasets (Customers, Orders, Logistics, etc.) for a growing e-commerce platform. I engineered a centralized Business Intelligence solution to track Year-over-Year (YoY) growth and identify logistics bottlenecks.
 
 ### 🖼️ Dashboard Preview
-![Main Dashboard](Screenshot (120).png)
-![Data Model](Screenshot (119).png)
+![Main Dashboard](./Screenshot%20(120).png)
+![Data Model](./Screenshot%20(119).png)
 
 ---
 
